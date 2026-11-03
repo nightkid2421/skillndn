@@ -1,0 +1,1108 @@
+{
+  "snapshot_date": "2026-11-03",
+  "repository": "https://github.com/nightkid2421/skillndn",
+  "skills": [
+    {
+      "name": "artifact-template-analytics-dashboard",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Analytics Dashboard template and its retained reference file. Use when the user selects or names Analytics Dashboard. Monitor acquisition, engagement, retention, revenue, and conversion funnel KPIs with charts.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-business-review",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Business Review template and its retained reference file. Use when the user selects or names Business Review. Review business performance, KPIs, segment results, strategic priorities, decisions, and outlook.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-design-report",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Design Report template and its retained reference file. Use when the user selects or names Design Report. Produce design reports with an executive summary, key findings, implications, recommendations, and appendix.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-experiment-analysis",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Experiment Analysis template and its retained reference file. Use when the user selects or names Experiment Analysis. Analyze experiments with hypotheses, methodology, results, interpretation, limitations, and next steps.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-financial-budget",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Financial Budget template and its retained reference file. Use when the user selects or names Financial Budget. Model actuals, budget and scenario forecasts, variances, cash runway, and departmental plans.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-investment-committee-memo",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Investment Committee Memo template and its retained reference file. Use when the user selects or names Investment Committee Memo. Prepare investment committee memos with the thesis, transaction details, financial analysis, risks, and recommendation.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-legal-memorandum",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Legal Memorandum template and its retained reference file. Use when the user selects or names Legal Memorandum. Draft legal memoranda with the issue, brief answer, relevant facts, analysis, and conclusion.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-market-trends-report",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Market Trends Report template and its retained reference file. Use when the user selects or names Market Trends Report. Communicate market or industry trends, supporting evidence, implications, and recommended responses.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-minimal-letterhead",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Minimal Letterhead template and its retained reference file. Use when the user selects or names Minimal Letterhead. Write professional business letters with sender, recipient, message, and signature fields in a minimal letterhead layout.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-operating-calendar",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Operating Calendar template and its retained reference file. Use when the user selects or names Operating Calendar. Plan annual and monthly operating milestones, campaigns, launches, deadlines, and recurring events.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-operating-review",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Operating Review template and its retained reference file. Use when the user selects or names Operating Review. Run weekly operating reviews with scorecards, functional updates, risks, decisions, and action items.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-project-kickoff",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Project Kickoff template and its retained reference file. Use when the user selects or names Project Kickoff. Align teams on project goals, scope, roles, milestones, risks, and the working model.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-project-tracker",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Project Tracker template and its retained reference file. Use when the user selects or names Project Tracker. Manage workstreams, tasks, owners, status, priority, dates, launch pulse, and a Gantt schedule.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-sales-pipeline",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Sales Pipeline template and its retained reference file. Use when the user selects or names Sales Pipeline. Track opportunities, stages, owners, deal sizes, probabilities, forecasts, next steps, and risks.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-simple-dark-mode",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Simple Dark Mode template and its retained reference file. Use when the user selects or names Simple Dark Mode. Create clean dark-mode presentations with bold typography, simple sections, charts, and imagery.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-simple-light-mode",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Simple Light Mode template and its retained reference file. Use when the user selects or names Simple Light Mode. Create clean light-mode presentations with spacious typography, simple sections, charts, and imagery.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-strategy-memorandum",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the Strategy Memorandum template and its retained reference file. Use when the user selects or names Strategy Memorandum. Present strategic context, choices, rationale, risks, milestones, and a clear recommendation.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-system-design",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a document using the System Design template and its retained reference file. Use when the user selects or names System Design. Document system architecture, requirements, components, data flows, APIs, tradeoffs, and operational considerations.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-team-alignment",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a presentation using the Team Alignment template and its retained reference file. Use when the user selects or names Team Alignment. Facilitate team offsites and planning with context, goals, priorities, decisions, and action items.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "artifact-template-three-statement-forecast",
+      "source": "openai-curated-remote/openai-templates",
+      "version": "0.1.1",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create a spreadsheet using the Three-Statement Forecast template and its retained reference file. Use when the user selects or names Three-Statement Forecast. Build an integrated income statement, balance sheet, and cash flow forecast with assumptions, checks, and an executive summary.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "create-agent-adapter",
+      "source": "paperclipai/paperclip",
+      "version": "adapter-codex-local-0.3.1",
+      "license": "MIT",
+      "included": true,
+      "description": "Technical guide for creating a new Paperclip agent adapter. Use when building a new adapter package, adding support for a new AI coding tool (e.g. a new CLI agent, API-based agent, or custom process), or when modifying the adapter system. Covers the required interfaces, module structure, registration points, and conventions derived from the existing claude-local and codex-local adapters.",
+      "path": "skills/create-agent-adapter",
+      "files": [
+        {
+          "path": "skills/create-agent-adapter/LICENSE",
+          "sha256": "7f8a27f0979bded50e240caa8c8c29f3088ddf87032cb83e5a9732bff91d18b4"
+        },
+        {
+          "path": "skills/create-agent-adapter/SKILL.md",
+          "sha256": "2b6a711acac38aababc10f6568b8bc20d708b4cdb6dcc0d14140ca99da5d99de"
+        }
+      ]
+    },
+    {
+      "name": "create-pet",
+      "source": "openai-curated-remote/work-pets",
+      "version": "0.1.6",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create, repair, validate, preview, upload, or activate an animated v2 pet in ChatGPT Work mode from a character idea, brand cue, or reference image. Use for new ChatGPT Pets, custom mascots, non-pixel styles, and unattached sprite sheets requiring nine animation states plus sixteen look directions. Preserve Library artifacts and Pets MCP lifecycle behavior. Exclude real pets, standalone images, and other-app pets; clarify before invoking.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "documents",
+      "source": "openai-primary-runtime/documents",
+      "version": "26.1026.10807",
+      "license": "Restricted",
+      "included": false,
+      "description": "Create, edit, redline, and comment on `.docx`, Word, and Google Docs-targeted document artifacts inside the container, with a strict render-and-verify workflow. Use `render_docx.py` to generate page PNGs (and optional PDF) for visual QA, then iterate until layout is flawless before delivering the final document.",
+      "reason": "Skill LICENSE.txt explicitly prohibits extraction and redistribution; overrides plugin metadata."
+    },
+    {
+      "name": "excel-live-control",
+      "source": "openai-primary-runtime/spreadsheets",
+      "version": "26.1026.10807",
+      "license": "MIT",
+      "included": true,
+      "description": "Control an open or active Microsoft Excel workbook through the ChatGPT add-in or connected session. Use when the user tags the Microsoft Excel app in Codex or follows up on an established live Excel task. Do not use for standalone spreadsheet files or Google Sheets.",
+      "path": "skills/excel-live-control",
+      "files": [
+        {
+          "path": "skills/excel-live-control/LICENSE",
+          "sha256": "ce75c1a06ced68d47cfa06f3abd673088f4ba77ae5eee3923e9102a4153b55ca"
+        },
+        {
+          "path": "skills/excel-live-control/LICENSE_SOURCE.json",
+          "sha256": "48448c101b12fe7c2d1ea53aea61517cd73ca9841e5aa54e66e0793bbd4f535a"
+        },
+        {
+          "path": "skills/excel-live-control/SKILL.md",
+          "sha256": "1c27488fa2a59ce2cc8925a12527ee9c7aa40ccf0701f3f2719ab17858586e8b"
+        },
+        {
+          "path": "skills/excel-live-control/agents/openai.yaml",
+          "sha256": "70dc592d07c97d2703481d0794ad0c8d16a518a3cc4b790e02bf5a552f5e261f"
+        },
+        {
+          "path": "skills/excel-live-control/domain_guidance/financial_models.md",
+          "sha256": "e01796e46470c9750b600eff185c90ec1f63f6b8f08fe9317dbeb026b31099e0"
+        },
+        {
+          "path": "skills/excel-live-control/domain_guidance/healthcare.md",
+          "sha256": "df5b9dcb9df988c197fcb377e0b9798f582e9cd30d1c103fd7cd8957a215dff9"
+        },
+        {
+          "path": "skills/excel-live-control/domain_guidance/marketing_advertising.md",
+          "sha256": "bd6a715ac7d9ad2c830dff146e48321ccc4330c0024f471e85be66c5bb65b014"
+        },
+        {
+          "path": "skills/excel-live-control/domain_guidance/scientific_research.md",
+          "sha256": "a95381e624c4c9562efee3e4a5cdd41bd52e1d3330545ab64d2a85242b10c0af"
+        },
+        {
+          "path": "skills/excel-live-control/features/charts.md",
+          "sha256": "f85e0fa9ba2505f9ee3dd9c4529d1c529b0ce7c9c5e95a919409025c0217c470"
+        },
+        {
+          "path": "skills/excel-live-control/officejs.md",
+          "sha256": "9379f52d8f7644eed600f5a544318fe9a3e8619ef0c4088c80c3c85d4b072113"
+        },
+        {
+          "path": "skills/excel-live-control/references/image-references.md",
+          "sha256": "148690f09a1f33a8d61a3f28df8b9c872a6bc16f0eaa2ea561bcc4dcd07bc2cc"
+        },
+        {
+          "path": "skills/excel-live-control/references/read_only_qna.md",
+          "sha256": "687beb1ce4c32164fd8f8f17e0a2c6a4371798ab1d47835a0a74efe7b8f980a6"
+        },
+        {
+          "path": "skills/excel-live-control/style_guidelines.md",
+          "sha256": "52f91ee6bc4c0a3b633b35df33924092a07e48c45cc839942288592989e33063"
+        },
+        {
+          "path": "skills/excel-live-control/workflows/create_workflows.md",
+          "sha256": "92e3d0910bde06d210718f47f88f24a51d33bf03b4560cca3e280fbcde22a47d"
+        },
+        {
+          "path": "skills/excel-live-control/workflows/edit_workflows.md",
+          "sha256": "f75917488c75b5a7b9e194c57131163d54ad23405802944e1d59eece990d27d8"
+        }
+      ],
+      "packaging_additions": [
+        "LICENSE (standard MIT terms with OpenAI attribution, as declared in plugin manifest)",
+        "LICENSE_SOURCE.json (original plugin manifest)"
+      ]
+    },
+    {
+      "name": "imagegen",
+      "source": "codex-system",
+      "version": "installed-2026-11-03",
+      "license": "Apache-2.0",
+      "included": true,
+      "description": "Generate or edit raster images when the task benefits from AI-created bitmap visuals such as photos, illustrations, textures, sprites, mockups, or transparent-background cutouts. Use when Codex should create a brand-new image, transform an existing image, or derive visual variants from references, and the output should be a bitmap asset rather than repo-native code or vector. Do not use when the task is better handled by editing existing SVG/vector/code-native assets, extending an established icon or logo system, or building the visual directly in HTML/CSS/canvas.",
+      "path": "skills/imagegen",
+      "files": [
+        {
+          "path": "skills/imagegen/LICENSE.txt",
+          "sha256": "4dd13869245e356246a5b770723247bbb80a8f07a181d1d3d873a1734297cdb9"
+        },
+        {
+          "path": "skills/imagegen/SKILL.md",
+          "sha256": "681ddb4ad6d06a2acc78a3535b583f8d0c1ea800ecda3d56370d3310fd2cd4ba"
+        },
+        {
+          "path": "skills/imagegen/agents/openai.yaml",
+          "sha256": "9ca574af14580dc7a2a3dc37a1796d17f93cb8850be66501f0799ef8603e9dc0"
+        },
+        {
+          "path": "skills/imagegen/assets/imagegen-small.svg",
+          "sha256": "cff5f34f57ff60b3ee92eaedd17b15e96dd4b9e776df3e78936c9e00d42be294"
+        },
+        {
+          "path": "skills/imagegen/assets/imagegen.png",
+          "sha256": "95952f644064eb9e890f98d8db07216347186526e4c41ad66d3420629eb86e20"
+        },
+        {
+          "path": "skills/imagegen/references/cli.md",
+          "sha256": "ecfc2e09261a0feb3482517a5fa0ff410cb7d1958e3cbd2ac6b61586f5b81405"
+        },
+        {
+          "path": "skills/imagegen/references/codex-network.md",
+          "sha256": "c88298ca4481f6116a16fa7987434fc977f8b311c1bbc0c3d862ffd0c5981148"
+        },
+        {
+          "path": "skills/imagegen/references/image-api.md",
+          "sha256": "dc975d7af8a4888967251a0276014b4a71ea30455294944b762256373ce3e569"
+        },
+        {
+          "path": "skills/imagegen/references/prompting.md",
+          "sha256": "b210b051c775860267080941eba968212bf0ac7fce581d75c5dcc217d8293f8b"
+        },
+        {
+          "path": "skills/imagegen/references/sample-prompts.md",
+          "sha256": "70474177d151855b175c6133de2aae1d90b7f146b0dab50ec830972c47d72183"
+        },
+        {
+          "path": "skills/imagegen/scripts/image_gen.py",
+          "sha256": "b4345cf835e5b593b97df6bb2b70bda493b8a97eee4cabbc99b2fa57dba9b448"
+        },
+        {
+          "path": "skills/imagegen/scripts/remove_chroma_key.py",
+          "sha256": "a5893c4bd04b21abced33731ea89d2ac428e81d92a0368eb18ffbe4fda5253e2"
+        }
+      ]
+    },
+    {
+      "name": "maintain-space",
+      "source": "openai-curated-remote/pages",
+      "version": "0.1.26",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Reconcile new evidence into existing ChatGPT Pages or a Space when the user requests upkeep. For a direct text correction, use write-page. Do not use for ordinary chat drafts, writing, or advice, or treat a selected Page as a request to save. Schedule future upkeep only when requested.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "manage-schedules",
+      "source": "openai-curated-remote/pages",
+      "version": "0.1.26",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Review a ChatGPT Space page and its schedules, recommend useful recurring work, and create, update, or remove scheduled automations.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "openai-docs",
+      "source": "codex-system",
+      "version": "installed-2026-11-03",
+      "license": "Apache-2.0",
+      "included": true,
+      "description": "Use for Codex models/pricing, scheduled tasks, skills, settings, setup, troubleshooting, customization, automations, and self-knowledge—including 'you,' 'your,' 'this app,' or 'this coding agent' when they refer to Codex—and for OpenAI APIs/products and ChatGPT Work. Also use for model choice/migration, prompting, SDKs, Responses, Realtime, agents, evals, and Chat/Work/Codex comparisons. Do not use for generic app/software tasks that merely mention Codex.",
+      "path": "skills/openai-docs",
+      "files": [
+        {
+          "path": "skills/openai-docs/LICENSE.txt",
+          "sha256": "4dd13869245e356246a5b770723247bbb80a8f07a181d1d3d873a1734297cdb9"
+        },
+        {
+          "path": "skills/openai-docs/SKILL.md",
+          "sha256": "aa6829e21df2223167c85d2e49b6337a7345c84c1033f1ec10182c7882b36d45"
+        },
+        {
+          "path": "skills/openai-docs/agents/openai.yaml",
+          "sha256": "44b9efac6be1bae32d869aa2942fecbe4dcae82682ee03e4120f2f9b7d4658ec"
+        },
+        {
+          "path": "skills/openai-docs/assets/openai-small.svg",
+          "sha256": "45be1f0757eb18889eefb1e7db79668ef46a275dc4e0e78e8df5ebd7f6cdeadc"
+        },
+        {
+          "path": "skills/openai-docs/assets/openai.png",
+          "sha256": "156cc84d7332bfe95b310350bd470b690d22aa33d65340cc6c2e06022946194c"
+        },
+        {
+          "path": "skills/openai-docs/references/codex-self-knowledge.md",
+          "sha256": "8c8fb00e6e5cb1977924f5164684a6095427fa828bbc765225f17d9aeb79a912"
+        },
+        {
+          "path": "skills/openai-docs/references/latest-model.md",
+          "sha256": "7e5b9437c6ad98a73da46ba3f7f5c86f88aea2a15242318f32c487eb28a90852"
+        },
+        {
+          "path": "skills/openai-docs/references/mcp-diagnostics.md",
+          "sha256": "49bbd2f73df7bbd7f86c80425dea4da2d301c22046080399a36bfc0ca49509e9"
+        },
+        {
+          "path": "skills/openai-docs/references/model-migration.md",
+          "sha256": "138c05dd06047b069a7aab09e657b6a6a0d25b6959cbe2473baae95f47e72883"
+        },
+        {
+          "path": "skills/openai-docs/references/model-selection.md",
+          "sha256": "ba2d164abbca30435a460a0bc3a7d82398dce2bdf092705c98ba55b3f3af38a8"
+        },
+        {
+          "path": "skills/openai-docs/references/official-docs.md",
+          "sha256": "7962f2dce55089b93bde4115bb89fd42f20993c1597a2b13edd4956f463875b9"
+        },
+        {
+          "path": "skills/openai-docs/references/prompting-guide.md",
+          "sha256": "5c791edd5bfc9363cb4251ac3ccd3b1dbac3bb2a6654f78606a9d2357c97c172"
+        },
+        {
+          "path": "skills/openai-docs/references/upgrade-guide.md",
+          "sha256": "63352ece4bd1ee82b225bb4cb4fa2ea4f0dbf57a308845fa30f2c8d7f1d291d1"
+        },
+        {
+          "path": "skills/openai-docs/references/upgrading-to-gpt-6-astra.md",
+          "sha256": "cacacdfe0b516f7420af51df10dfa0829bf67c4a670544d58992f6ce4ac22583"
+        },
+        {
+          "path": "skills/openai-docs/scripts/fetch-codex-manual.mjs",
+          "sha256": "1ea0ca869e3fdf06e83a9972fc4c602b0505a96b22e4b0d9629656f5b545e5ff"
+        },
+        {
+          "path": "skills/openai-docs/scripts/resolve-latest-model-info",
+          "sha256": "7354dbb030ca0736dd633a7ca1b930cf640abd40370725dea3a458cb51d49523"
+        },
+        {
+          "path": "skills/openai-docs/scripts/resolve-latest-model-info.cjs",
+          "sha256": "589b89515ab63fff87efde0b9c76eb72e674582aebc3afbc29ceae09abddafe3"
+        }
+      ]
+    },
+    {
+      "name": "organize-space",
+      "source": "openai-curated-remote/pages",
+      "version": "0.1.26",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Organize existing ChatGPT Pages and Space structure when the user requests changes to that structure. Do not use for ordinary chat drafts or advice; a selected Page alone does not authorize reorganization. A narrow text edit does not need this workflow.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "paperclip",
+      "source": "paperclipai/paperclip",
+      "version": "adapter-codex-local-0.3.1",
+      "license": "MIT",
+      "included": true,
+      "description": "Interact with the Paperclip control plane API to manage tasks, coordinate with other agents, and follow company governance. Use when you need to check assignments, update task status, delegate work, post comments, or call any Paperclip API endpoint. Do NOT use for the actual domain work itself (writing code, research, etc.) — only for Paperclip coordination.",
+      "path": "skills/paperclip",
+      "files": [
+        {
+          "path": "skills/paperclip/LICENSE",
+          "sha256": "7f8a27f0979bded50e240caa8c8c29f3088ddf87032cb83e5a9732bff91d18b4"
+        },
+        {
+          "path": "skills/paperclip/SKILL.md",
+          "sha256": "b7a67860735cd646cd2076f17842fd7795a5d3ed6fff62b7a375163b8603f18f"
+        },
+        {
+          "path": "skills/paperclip/references/api-reference.md",
+          "sha256": "8b78167120a92c0b3ee6fffd8813d4877b005617eede39edb4fa82bdc20f4400"
+        }
+      ]
+    },
+    {
+      "name": "paperclip-create-agent",
+      "source": "paperclipai/paperclip",
+      "version": "adapter-codex-local-0.3.1",
+      "license": "MIT",
+      "included": true,
+      "description": "Create new agents in Paperclip with governance-aware hiring. Use when you need to inspect adapter configuration options, compare existing agent configs, draft a new agent prompt/config, and submit a hire request.",
+      "path": "skills/paperclip-create-agent",
+      "files": [
+        {
+          "path": "skills/paperclip-create-agent/LICENSE",
+          "sha256": "7f8a27f0979bded50e240caa8c8c29f3088ddf87032cb83e5a9732bff91d18b4"
+        },
+        {
+          "path": "skills/paperclip-create-agent/SKILL.md",
+          "sha256": "e6bcad9352a4861bb7036c6606ca7c800c8ab8236b9efe141f64b9d3ade0e681"
+        },
+        {
+          "path": "skills/paperclip-create-agent/references/api-reference.md",
+          "sha256": "3eba9f5ec7f300b49456f2fcb424ba36ffe9ac1d3967322810ebd6e5da43bdc6"
+        }
+      ]
+    },
+    {
+      "name": "para-memory-files",
+      "source": "paperclipai/paperclip",
+      "version": "adapter-codex-local-0.3.1",
+      "license": "MIT",
+      "included": true,
+      "description": "File-based memory system using Tiago Forte's PARA method. Use this skill whenever you need to store, retrieve, update, or organize knowledge across sessions. Covers three memory layers: (1) Knowledge graph in PARA folders with atomic YAML facts, (2) Daily notes as raw timeline, (3) Tacit knowledge about user patterns. Also handles planning files, memory decay, weekly synthesis, and recall via qmd. Trigger on any memory operation: saving facts, writing daily notes, creating entities, running weekly synthesis, recalling past context, or managing plans.",
+      "path": "skills/para-memory-files",
+      "files": [
+        {
+          "path": "skills/para-memory-files/LICENSE",
+          "sha256": "7f8a27f0979bded50e240caa8c8c29f3088ddf87032cb83e5a9732bff91d18b4"
+        },
+        {
+          "path": "skills/para-memory-files/SKILL.md",
+          "sha256": "da41f731f3b81c32d0ddf9edd4390e59387c9ffd1d774fc7dd917604e02e7600"
+        },
+        {
+          "path": "skills/para-memory-files/references/schemas.md",
+          "sha256": "7223ba4d51f168ce4b88f9303c8e869cc661a02151cd476691e6736705d68e32"
+        }
+      ]
+    },
+    {
+      "name": "pdf",
+      "source": "openai-primary-runtime/pdf",
+      "version": "26.1026.10807",
+      "license": "MIT",
+      "included": true,
+      "description": "Read, create, inspect, render, and verify PDF files where visual layout matters, including fillable AcroForms. Use Poppler rendering plus Python tools such as reportlab, pdfplumber, and pypdf for generation and extraction.",
+      "path": "skills/pdf",
+      "files": [
+        {
+          "path": "skills/pdf/LICENSE",
+          "sha256": "ce75c1a06ced68d47cfa06f3abd673088f4ba77ae5eee3923e9102a4153b55ca"
+        },
+        {
+          "path": "skills/pdf/LICENSE_SOURCE.json",
+          "sha256": "cb6234036158a5bd90f376fde7ef3fc7e6f0de772df4b570dfe491653eda830f"
+        },
+        {
+          "path": "skills/pdf/SKILL.md",
+          "sha256": "a6e20f4ae66364a06d577dd51e0ce66ee2ef955be129cbe195e0a27f403daaf8"
+        },
+        {
+          "path": "skills/pdf/agents/openai.yaml",
+          "sha256": "74623eb0387951f4c6d0d02e6daf1c8a2dd449599c92a0edcafd12a2049c1a00"
+        },
+        {
+          "path": "skills/pdf/assets/file-document.png",
+          "sha256": "bbb3c29874cb3bc706eef9ba4436c7ef8ef33462a173c4c3d4deeec774e4da79"
+        },
+        {
+          "path": "skills/pdf/container_tools/mark_artifact_operation_started.mjs",
+          "sha256": "e0578762dc2a8f44a26323062c8afcf6c72ef197649f349c8b40e9f2a03c8942"
+        }
+      ],
+      "packaging_additions": [
+        "LICENSE (standard MIT terms with OpenAI attribution, as declared in plugin manifest)",
+        "LICENSE_SOURCE.json (original plugin manifest)"
+      ]
+    },
+    {
+      "name": "pets",
+      "source": "openai-curated-remote/work-pets",
+      "version": "0.1.6",
+      "license": "Proprietary",
+      "included": false,
+      "description": "List, inspect, select, download, or delete animated pets in ChatGPT Work mode. Use for an explicit pet in ChatGPT or established ChatGPT Pets context. Exclude real-world and other-app pets; clarify before invoking.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "plugin-management",
+      "source": "openai-curated-remote/plugin-management",
+      "version": "0.1.0",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Discover and suggest relevant plugins, inspect app permissions and dependencies, and manage plugin connections or removal. Use when the user asks about plugins or when a task would materially benefit from an external app, account, service, or data source that available tools cannot access.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "presentations",
+      "source": "openai-primary-runtime/presentations",
+      "version": "26.1026.10807",
+      "license": "MIT",
+      "included": true,
+      "description": "Read, create or edit presentations. Default to Spaces; follow the routing rules for PowerPoint/PPT/PPTX, Google Slides, templates and existing decks.",
+      "path": "skills/presentations",
+      "files": [
+        {
+          "path": "skills/presentations/LICENSE",
+          "sha256": "ce75c1a06ced68d47cfa06f3abd673088f4ba77ae5eee3923e9102a4153b55ca"
+        },
+        {
+          "path": "skills/presentations/LICENSE_SOURCE.json",
+          "sha256": "d40401d70f2c232cda6d554525dbb55844167e911285c73def1b1796bb559715"
+        },
+        {
+          "path": "skills/presentations/SKILL.md",
+          "sha256": "7abcc85f66d28c019963374cea7249c290803e6e64d214f6cd0473bc17559230"
+        },
+        {
+          "path": "skills/presentations/agents/openai.yaml",
+          "sha256": "13700be18c1cfbcfdf2d2439b73b5bebca744818ebfe3e634bfdf2bc14589e6f"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/API_QUICK_START.md",
+          "sha256": "515424856132ac49ef46aa1bfc48f9e9a82b9c78f94d2c6aaa72f8dd597e4957"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/API_DOCS.md",
+          "sha256": "feb31362d730af15374e92d33e656f0996bbab0d6ef2ca017ac23ed21eb326b3"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/auto-layout.spec.md",
+          "sha256": "1158c8d99e36490083667300874be6c6feee53164228d89e6aa04c8f4e973d0f"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/charts.spec.md",
+          "sha256": "8417a48bac9852d603bf89a35c5dbd215a4bba5cd183f1c794f99fbbcfa6ce5b"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/comments.md",
+          "sha256": "77f912d23576761e341c2b525375b260ae7b7fba6e4eb3a98d78458a36c8a59d"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/connectors.md",
+          "sha256": "b399ad77adbbbe9f718e31971f0661a34646ce2dba3aefad0577d23b7c5d73ce"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/cookbook/imported-deck.md",
+          "sha256": "e8d0b4766ff208b6cf776327edfb1f555254cade645911c877f313b31a36e80d"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/cookbook/layout.md",
+          "sha256": "6df9d7c4296d951db9316b044de6be17e6bdb9eb57fdf0d04df07da551b08be0"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/fill.spec.md",
+          "sha256": "79b67019ecb66c953197eb11a4b579b41b58973f5436330884c63d4341f2d7be"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/help.md",
+          "sha256": "45d43b4459863c1bccf7a6c180983bc3fdd3ca00a92a8d3f126b2021f54ea18e"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/images.spec.md",
+          "sha256": "f099f52caa80fbb51b117f2cf84d38a5e17bc18901a5a4507fbc2d93fa761c67"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/inspect.md",
+          "sha256": "73f4db4eaeac202aee1725c5aa0f346ee895e898eda48c57befdc4791bdd1b52"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/inspect.schema.json",
+          "sha256": "63d85c90b18a8d5bff734abc6980cdbdb52d767299dca925f73e0da71d05fcc2"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/jsx.md",
+          "sha256": "f8b225db2ae54134b5d4f947c8fc8efb3c1811b880ebaeaf1ef7cb81adf6cca2"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/layout.spec.md",
+          "sha256": "a63ffee900cbb41256d73df92660176e4933420cbcd781756c823436b215b63d"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/master.spec.md",
+          "sha256": "8d786bd0a851e05e4ea18570a264ceb172c4e936a4e3f6944ff87a8e3a89be4a"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/presentation.spec.md",
+          "sha256": "0ce0c3c87367003448a7985d1d432d1a3c75b303d1679e1c65bd72fa93cdfd30"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/rich-text.spec.md",
+          "sha256": "abb37df2da121771815f51626e1285d27942dd4eb9eb7a4c1cf229c0d37cbd7a"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/shapes.spec.md",
+          "sha256": "4cb500553e81dee2c06cb19cda91819c6700e4271b4f4173b7dcf06095d04ecd"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/slide.spec.md",
+          "sha256": "53160ad78c5dd40c49f4e7da378cea6c795780deb43fcb73ea6c8cc64eeaf512"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/speaker-notes.spec.md",
+          "sha256": "108e90560cf5d7f6b13144401d5018f7f2c4b93896bb2d89f41c4ce62aa13b50"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/styles.spec.md",
+          "sha256": "c27a25f32184d65466d6051256afd8e29144bc87eccc04e486fb845758518f8e"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/tables.spec.md",
+          "sha256": "4735841f5bfa3520cbba1b5e7b26014e980d616da2bdb9f4e1580817884b5efb"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/theme.spec.md",
+          "sha256": "3dfae5c2973cd197c47daeae042872ad90a033f2df64758b4006591694e2045c"
+        },
+        {
+          "path": "skills/presentations/artifact_tool_docs/api/references/tokens.md",
+          "sha256": "55326b4322f942a16d02caa79aebd60c2c97156008fd3eb69012bda327bbcc96"
+        },
+        {
+          "path": "skills/presentations/assets/file-presentation.png",
+          "sha256": "a3c03edcadfe5af5a06c709b264d276d7e8ac6e150d69729c502459998b2a680"
+        },
+        {
+          "path": "skills/presentations/container_tools/artifact_tool_utils.mjs",
+          "sha256": "7f3be49b701c385ee180cad5858135297482264039f950d542c22aa9c602645d"
+        },
+        {
+          "path": "skills/presentations/container_tools/create_montage.py",
+          "sha256": "4e992386bab29f9b8b16b1705d2692f8e8b8fd27112d41e7cb56c886859711e0"
+        },
+        {
+          "path": "skills/presentations/container_tools/ensure_raster_image.py",
+          "sha256": "88a5783010907a474fb41e7bfb8d31d0056641fcf38fbc1fc60d58e3a7d0f39f"
+        },
+        {
+          "path": "skills/presentations/container_tools/inspect_presentation_layout_geometry.py",
+          "sha256": "171ce664e04705abfef280bf201c7783cfe273747002b2fd04a195b7f447c4eb"
+        },
+        {
+          "path": "skills/presentations/container_tools/inspect_presentation_package_integrity.py",
+          "sha256": "0211c115805642094652fb1d464838559b95e4615d15170d22b29d4a23cc9f9f"
+        },
+        {
+          "path": "skills/presentations/container_tools/mark_artifact_operation_started.mjs",
+          "sha256": "93a0b2fd9f9d6f52204a581f218f3e2d0acd4e1d404d13d91ab78a06f5a7159d"
+        },
+        {
+          "path": "skills/presentations/container_tools/materialize_literal_chart_workbooks.py",
+          "sha256": "c29d18483e26dc61ea5ea48245f8fe2625317f5511f8e8af82506760140051da"
+        },
+        {
+          "path": "skills/presentations/container_tools/native_chart_title_gate.py",
+          "sha256": "752e88d019c5ee1618ec9ad0bcb111409f39ca4c68da571f0f29967c7773c078"
+        },
+        {
+          "path": "skills/presentations/container_tools/native_quantitative_chart_gate.py",
+          "sha256": "7dde6fdda947365731cd8fbc89ede5b718c57c84e285a20af1a675fc9e27cab3"
+        },
+        {
+          "path": "skills/presentations/container_tools/native_table_arithmetic_gate.py",
+          "sha256": "de3db1596db2fea90261990e867c9713510f3133b65a7dc36269991de5783976"
+        },
+        {
+          "path": "skills/presentations/container_tools/rasterize_svg.mjs",
+          "sha256": "95e973b2750820e1c0c2a63d403bd227c8f0197ae215d0a67bff1cbe12be694a"
+        },
+        {
+          "path": "skills/presentations/container_tools/render_presentation.mjs",
+          "sha256": "edd464cd7bb79bcf7528637ae201c716f1c6b74b135d674302e77552736c38c9"
+        },
+        {
+          "path": "skills/presentations/container_tools/render_slides.py",
+          "sha256": "ab4965cd3e7338767c83217780ed0efadc219b38f1ca7e824765400fbcf69705"
+        },
+        {
+          "path": "skills/presentations/container_tools/runtime_helpers.mjs",
+          "sha256": "587fb61b967842bddb886be6539c8939ad0828779352bf96a3df2d0ed7c9c227"
+        },
+        {
+          "path": "skills/presentations/container_tools/runtime_helpers.py",
+          "sha256": "0524d854d0518e562613590a293dd23da8c2622e08c82026b0da469752c3ceff"
+        },
+        {
+          "path": "skills/presentations/container_tools/slides_test.py",
+          "sha256": "f192e85ba17a9f7634908074e2149a277a30684c0e38d459f9c1d0245bfd6cc1"
+        },
+        {
+          "path": "skills/presentations/container_tools/template_source_fidelity_gate.py",
+          "sha256": "7f6b5085834ed8001862cf712589d994ddc5cbca8207cab5af52fa5ca25f91df"
+        },
+        {
+          "path": "skills/presentations/domain_guidance/finance.md",
+          "sha256": "3a3c1a20a160d2a47f79b230d9e1687899aef464c41711053cc7158a2fe217fb"
+        },
+        {
+          "path": "skills/presentations/references/artifact_sessions.md",
+          "sha256": "b20ef66bca5d4d747a043bac9e6b07e9251a350aac62c5b38bb2357d932738d7"
+        },
+        {
+          "path": "skills/presentations/references/cover_art_direction.md",
+          "sha256": "c74334268be2e7021429612df0c606b88c0b640dd7acab2c92160bf8cbe38f91"
+        },
+        {
+          "path": "skills/presentations/references/finalization.md",
+          "sha256": "a8e9cb6996aa9967e0bdb88cf65fae051687c5026f0294f7fefbf09b6516c342"
+        },
+        {
+          "path": "skills/presentations/references/implementation.md",
+          "sha256": "41ba50a09d34a95c40083a6b661ec3e1a457e0f74630c9ad26b28d9d829a4dbb"
+        },
+        {
+          "path": "skills/presentations/references/native_bullets.md",
+          "sha256": "cfee5a305501c651373eb4303d6557def2281c4fad7e8919a1de133b0b9ae5e6"
+        },
+        {
+          "path": "skills/presentations/references/native_evidence.md",
+          "sha256": "9fcb8313554b1f9e9d95d2098d701cdda6247f1d8851fbafb36c90ecdce0b7cb"
+        },
+        {
+          "path": "skills/presentations/references/template-elicitation.md",
+          "sha256": "320b64453f88d78302445ac3751f6c70a3077ec16a161aa6227db2838b55319c"
+        },
+        {
+          "path": "skills/presentations/references/template_following.md",
+          "sha256": "30fabd5e5dae547288f4267a08090410425e1b243d3139bc15509552009b36d7"
+        },
+        {
+          "path": "skills/presentations/routing/google_slides.md",
+          "sha256": "ae1627a41804f503602ab491169925e0c26969727fa65d72757d5950e5f09293"
+        },
+        {
+          "path": "skills/presentations/style_guidelines.md",
+          "sha256": "c863ad07834e9801151c4d6cb3a2bba75c36d2d2830cfef5d94db7d30ba3dd58"
+        },
+        {
+          "path": "skills/presentations/template_following_scripts/check_template_fidelity.mjs",
+          "sha256": "7dc9f198a617a456cf645ef68d3991ef2960f092f4bf995ecf629ab1fa48f8ee"
+        },
+        {
+          "path": "skills/presentations/template_following_scripts/inspect_template_deck.mjs",
+          "sha256": "c901e0c9d632f276293f5d86439b73fc5209f2cb6b2639b8232e0ddae946844e"
+        },
+        {
+          "path": "skills/presentations/template_following_scripts/make_contact_sheet.py",
+          "sha256": "b929a3d3d27dceb14d630da33bfd6218fba2e2b0b9e4ae5a28acdd2134f38322"
+        },
+        {
+          "path": "skills/presentations/template_following_scripts/prepare_template_starter_deck.mjs",
+          "sha256": "e8137b68bd2687f9de573467dac8eb5e6c1bea8099071aaaafcc9046f9e5937f"
+        },
+        {
+          "path": "skills/presentations/template_following_scripts/validate_template_plan.mjs",
+          "sha256": "6eb67f339358247f500f92261f6bece2c6c055dd59a0ed25bc6bf00da4f0f6b1"
+        }
+      ],
+      "packaging_additions": [
+        "LICENSE (standard MIT terms with OpenAI attribution, as declared in plugin manifest)",
+        "LICENSE_SOURCE.json (original plugin manifest)"
+      ]
+    },
+    {
+      "name": "review-agent",
+      "source": "codex-system",
+      "version": "installed-2026-11-03",
+      "license": "Unspecified",
+      "included": false,
+      "description": "Perform a read-only, defect-first review of a specified code change and return every actionable finding. Use when another agent delegates review of uncommitted changes, a base-branch diff, a commit, or custom review instructions.",
+      "reason": "No explicit redistribution license found."
+    },
+    {
+      "name": "sites",
+      "source": "openai-curated-remote/sites",
+      "version": "1.1.2",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Use Sites when the user wants a website built for them (including a landing page, portfolio, dashboard, portal, tracker, hub, game, event registration, or tool), requests changes to a website already built with Sites, wants to publish a website with Sites, or wants to manage Sites hosting.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "sites-remix",
+      "source": "openai-curated-remote/sites",
+      "version": "1.1.2",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Remix a Site built with the Sites plugin into a new Site. Use when the user has identified the source Site and asks to remix it.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "skill-creator",
+      "source": "codex-system",
+      "version": "installed-2026-11-03",
+      "license": "Apache-2.0",
+      "included": true,
+      "description": "Create or update a Codex skill with appropriately scoped instructions and any needed supporting resources.",
+      "path": "skills/skill-creator",
+      "files": [
+        {
+          "path": "skills/skill-creator/SKILL.md",
+          "sha256": "6656e54755638e8efcf275a472b9672eaa8a9a1b9e59dc210e275b03b59e1e66"
+        },
+        {
+          "path": "skills/skill-creator/agents/openai.yaml",
+          "sha256": "d07d21b93fcf3d4dc8d9a3399c05fc226a49a333a96d3e1c68b451b8dd9eade6"
+        },
+        {
+          "path": "skills/skill-creator/assets/skill-creator-small.svg",
+          "sha256": "6591bf8ea9bb9435890dbdea299e0d2bd05f3aa893a335d26e4c535e93c8e7fb"
+        },
+        {
+          "path": "skills/skill-creator/assets/skill-creator.png",
+          "sha256": "a4024b0306ddb05847e1012879d37aaf1e658205199da596f5145ed7a88d9162"
+        },
+        {
+          "path": "skills/skill-creator/license.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "path": "skills/skill-creator/references/openai_yaml.md",
+          "sha256": "ffac39318e408108141d40f820968e59f70434a891694f9bf1d25be8237b150c"
+        },
+        {
+          "path": "skills/skill-creator/scripts/generate_openai_yaml.py",
+          "sha256": "816df12072d74faf924d802a6599a139997e1441e90bfe4869ec304f2e5e2851"
+        },
+        {
+          "path": "skills/skill-creator/scripts/init_skill.py",
+          "sha256": "bf0656a5f9d8d8cdecf0245eaf27e1df8e0e9b6d40ccdda814eb8e3d5f6992c8"
+        },
+        {
+          "path": "skills/skill-creator/scripts/quick_validate.py",
+          "sha256": "ee6dba90f44d37171c5a6edb8095979c54919ff6822c1a907afca2e78c48738c"
+        }
+      ]
+    },
+    {
+      "name": "skill-installer",
+      "source": "codex-system",
+      "version": "installed-2026-11-03",
+      "license": "Apache-2.0",
+      "included": true,
+      "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+      "path": "skills/skill-installer",
+      "files": [
+        {
+          "path": "skills/skill-installer/LICENSE.txt",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+        },
+        {
+          "path": "skills/skill-installer/SKILL.md",
+          "sha256": "d68b77e5bbb34dedab89d134da52855f140fc4b4299b80104f534e3b9e98f8ee"
+        },
+        {
+          "path": "skills/skill-installer/agents/openai.yaml",
+          "sha256": "5ce223d8b1070b82c42298538f1b8d376f788eb9e7a42a987e8c094070d73f0e"
+        },
+        {
+          "path": "skills/skill-installer/assets/skill-installer-small.svg",
+          "sha256": "3928703ff00dc1a681e7a22401843b7edcbd4b2051651ce4c43b75f7e140504e"
+        },
+        {
+          "path": "skills/skill-installer/assets/skill-installer.png",
+          "sha256": "d0a230b1a79b71b858b7c215a0fbb0768d6459c14ea4ef80c61592629bf0e605"
+        },
+        {
+          "path": "skills/skill-installer/scripts/github_utils.py",
+          "sha256": "61c1bbe2ae217433b4b6f9f09f21aca4df52c12598068343ade719f706e4859b"
+        },
+        {
+          "path": "skills/skill-installer/scripts/install-skill-from-github.py",
+          "sha256": "38f311b75664bb063808f982c600271ebc4b560830f491705190f88a94e3e781"
+        },
+        {
+          "path": "skills/skill-installer/scripts/list-skills.py",
+          "sha256": "9d6dfb2abf3afeee7f027a89fb1626b918a973da18f4eb6c25681286301beb41"
+        }
+      ]
+    },
+    {
+      "name": "spreadsheets",
+      "source": "openai-primary-runtime/spreadsheets",
+      "version": "26.1026.10807",
+      "license": "MIT",
+      "included": true,
+      "description": "Use skill when user requests to create, modify, analyze, visualize, or work with spreadsheet files (`.xlsx`, `.xls`, `.csv`, `.tsv`) or Google Sheets with formulas, formatting, charts, tables, and recalculation. Do not use for live controlling Microsoft Excel app or a live Excel session.",
+      "path": "skills/spreadsheets",
+      "files": [
+        {
+          "path": "skills/spreadsheets/LICENSE",
+          "sha256": "ce75c1a06ced68d47cfa06f3abd673088f4ba77ae5eee3923e9102a4153b55ca"
+        },
+        {
+          "path": "skills/spreadsheets/LICENSE_SOURCE.json",
+          "sha256": "48448c101b12fe7c2d1ea53aea61517cd73ca9841e5aa54e66e0793bbd4f535a"
+        },
+        {
+          "path": "skills/spreadsheets/SKILL.md",
+          "sha256": "25da47cec10100f2a08df9feaa252864a738816aca30562ae6ba111d7b1eb48e"
+        },
+        {
+          "path": "skills/spreadsheets/agents/openai.yaml",
+          "sha256": "8dc6dfa3a1c6fd33ecb3088fe4d4e24689fc47685c43a9bac360fcee2af02a40"
+        },
+        {
+          "path": "skills/spreadsheets/artifact_tool_docs/API_QUICK_START.md",
+          "sha256": "2795943c6a356a6bb94767526acb53a6aec8599be1d15fdbe54458bc799d5f4a"
+        },
+        {
+          "path": "skills/spreadsheets/artifact_tool_docs/DATA_TABLES.md",
+          "sha256": "f87542406b8a2282521233c11fec87087eb2889628a1f20944977c0ad9c68488"
+        },
+        {
+          "path": "skills/spreadsheets/artifact_tool_docs/SPARKLINES.md",
+          "sha256": "d3926fac25653829837c03136124126e1d1be192de6d62bf1f77e29300d97c1f"
+        },
+        {
+          "path": "skills/spreadsheets/assets/file-spreadsheet.png",
+          "sha256": "3a1c5e6c52a1877942b8ef8654247fbe1c4a82f6df8ef464dc99983fc72cd6fb"
+        },
+        {
+          "path": "skills/spreadsheets/container_tools/mark_artifact_operation_started.mjs",
+          "sha256": "20c5a86e596154c0541c7bfc4c52c17d928e22e27c6f0ff936c1c3fe16873c10"
+        },
+        {
+          "path": "skills/spreadsheets/domain_guidance/financial_models.md",
+          "sha256": "e01796e46470c9750b600eff185c90ec1f63f6b8f08fe9317dbeb026b31099e0"
+        },
+        {
+          "path": "skills/spreadsheets/domain_guidance/healthcare.md",
+          "sha256": "df5b9dcb9df988c197fcb377e0b9798f582e9cd30d1c103fd7cd8957a215dff9"
+        },
+        {
+          "path": "skills/spreadsheets/domain_guidance/marketing_advertising.md",
+          "sha256": "bd6a715ac7d9ad2c830dff146e48321ccc4330c0024f471e85be66c5bb65b014"
+        },
+        {
+          "path": "skills/spreadsheets/domain_guidance/scientific_research.md",
+          "sha256": "a95381e624c4c9562efee3e4a5cdd41bd52e1d3330545ab64d2a85242b10c0af"
+        },
+        {
+          "path": "skills/spreadsheets/features/charts.md",
+          "sha256": "f85e0fa9ba2505f9ee3dd9c4529d1c529b0ce7c9c5e95a919409025c0217c470"
+        },
+        {
+          "path": "skills/spreadsheets/references/image-references.md",
+          "sha256": "148690f09a1f33a8d61a3f28df8b9c872a6bc16f0eaa2ea561bcc4dcd07bc2cc"
+        },
+        {
+          "path": "skills/spreadsheets/references/read_only_qna.md",
+          "sha256": "687beb1ce4c32164fd8f8f17e0a2c6a4371798ab1d47835a0a74efe7b8f980a6"
+        },
+        {
+          "path": "skills/spreadsheets/references/template-elicitation.md",
+          "sha256": "60b0ea3e373eef4f2a11fa419a7214f6580ac8e9b91028e7ba0968d4106e69ad"
+        },
+        {
+          "path": "skills/spreadsheets/routing/google_sheets.md",
+          "sha256": "e59dcc3a474ac69708114c1f6592c52675e36c19adf5832c7695e478c12f078d"
+        },
+        {
+          "path": "skills/spreadsheets/style_guidelines.md",
+          "sha256": "52f91ee6bc4c0a3b633b35df33924092a07e48c45cc839942288592989e33063"
+        },
+        {
+          "path": "skills/spreadsheets/workflows/create_workflows.md",
+          "sha256": "92e3d0910bde06d210718f47f88f24a51d33bf03b4560cca3e280fbcde22a47d"
+        },
+        {
+          "path": "skills/spreadsheets/workflows/edit_workflows.md",
+          "sha256": "f75917488c75b5a7b9e194c57131163d54ad23405802944e1d59eece990d27d8"
+        }
+      ],
+      "packaging_additions": [
+        "LICENSE (standard MIT terms with OpenAI attribution, as declared in plugin manifest)",
+        "LICENSE_SOURCE.json (original plugin manifest)"
+      ]
+    },
+    {
+      "name": "template-creator",
+      "source": "openai-primary-runtime/template-creator",
+      "version": "26.1026.10807",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create or update a reusable personal Codex artifact-template skill. Use when the user invokes $template-creator or asks in natural language to create a reusable template from a reference document, presentation, spreadsheet, Google Docs, Slides, or Sheets link, ImageGen or Product Design image, email, Slack message, or Site project, or explicitly asks to edit or update a passed artifact-template skill. Do not use for one-off creation from an existing template.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "update-pet",
+      "source": "openai-curated-remote/work-pets",
+      "version": "0.1.6",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Inspect, validate, preview, repair, or update a custom pet in ChatGPT Work mode, including its name, description, or sprite sheet. Use for a pet in ChatGPT or established ChatGPT Pets context. Exclude real-world and other-app pets; clarify before invoking.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "visualize",
+      "source": "openai-bundled/visualize",
+      "version": "1.0.66",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create visualizations and interactive tools directly in conversation. Proactively use to show how something works; explore 'what happens when', 'what changes', or 'help me understand'; compare or inspect; create simulations, maps, charts, graphs, and mockups. Use standard tools for static scientific figures.",
+      "reason": "Plugin declares a proprietary license."
+    },
+    {
+      "name": "write-page",
+      "source": "openai-curated-remote/pages",
+      "version": "0.1.26",
+      "license": "Proprietary",
+      "included": false,
+      "description": "Create or edit requested Page/Space content, or use for prose you have already decided to save as a standalone Markdown file, only if the user did not explicitly request a Markdown file. Honor established formats, destinations, and repository documentation. A selected Page alone does not authorize a write.",
+      "reason": "Plugin declares a proprietary license."
+    }
+  ]
+}
